@@ -1,0 +1,41 @@
+RayNeo Steady 0.2.1
+For Apple Silicon Macs running macOS 15 or later.
+
+INSTALL
+Drag RayNeo Steady into Applications, then open it.
+The eyeglasses icon in the menu bar opens the controls.
+
+SHOW YOUR DESKTOP
+1. Connect your RayNeo Air 4 Pro and close other glasses apps.
+2. Choose “My Mac desktop” under Show.
+3. Choose your Mac screen under Source and SmartGlasses under Output.
+4. Click Start in Glasses. Allow Screen Recording when macOS asks.
+5. If macOS requires it, quit and reopen RayNeo Steady after granting access.
+
+The desktop replaces the size-guide grid and uses the same size and tracking
+controls. Your desktop frames stay on this Mac; the app does not upload or save
+screen recordings. Keep your pointer on the source screen to interact normally.
+
+For desktop output in the glasses, macOS must expose the source screen and
+SmartGlasses as separate displays. RayNeo Steady does not change your macOS
+display arrangement. The calibration grid and windowed preview also work in
+a mirrored setup.
+
+COMFORT
+Start at 80% screen size. Use − and + for exact one-point adjustments.
+Rest the glasses on a still surface until calibration is ready, then put them
+on and Recenter. Pinned holds a direction; Steady Follow gradually follows
+deliberate head turns. Refined tracking can be toggled live for comparison.
+Calibration grid is an optional size guide, not the normal desktop view.
+
+SHORTCUTS
+Control–Command–1: show controls
+Control–Command–R: recenter
+Control–Command–S: stop output
+
+NOTES
+Head tracking is experimental. Some micro-shakes and long-term drift may remain.
+This is rotational tracking, not room-position tracking. Protected video may
+not be capturable. Closing the controls leaves the menu-bar app running.
+
+By san — https://santiagoalonso.com

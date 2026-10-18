@@ -1,0 +1,13 @@
+.build/
+dist/
+releases/
+.DS_Store
+*.log
+.swiftpm/
+Assets/AppIcon.iconset/
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
