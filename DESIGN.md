@@ -4,7 +4,7 @@ Compact native utility. The most frequent action is adjusting the size of a sing
 
 AppKit owns windows and controls. A Metal view owns the output surface. The app stays available in the menu bar when the control window closes.
 
-Reference: the local Mac design skill's Things General preferences screenshot. Keep its calm surface, aligned native controls, spacing, and restrained dividers. Adapt to one pane and a prominent size value. Avoid tabs, unrelated categories, copied branding, and decorative cards.
+A calm surface with aligned native controls, even spacing, and restrained dividers, in one pane with a prominent size value. Avoid tabs, unrelated categories, and decorative cards.
 
 Use system fonts, semantic system colors, a 4-point spacing rhythm, 24-point outer margins, native keyboard focus and accessible labels. Both Aqua and Dark Aqua are supported by semantic colors. The output view is black with a neutral grid and quiet cyan center markers.
 
