@@ -47,6 +47,5 @@ The built app, DMGs and intermediate iconset are generated artifacts excluded fr
 | `Tests/SteadyCoreTests/` | Thirteen tests for sizing, motion, timing and bounded prediction |
 | `Assets/` | Icon master and PNG/ICNS assets |
 | [DESIGN.md](../DESIGN.md) | Native interface and icon direction |
-| [docs/DEVELOPMENT.md](DEVELOPMENT.md) | Tracking design, runtime measurements and what's verified |
 
 Tested on real glasses: the two core features work, with some fine shake remaining. The timing figures are runtime samples, not a controlled latency benchmark. Notarization and capturing the same display used for output are still open.
