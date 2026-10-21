@@ -11,3 +11,6 @@ Assets/AppIcon.iconset/
 *.p12
 *.p8
 *.mobileprovision
+
+# Agent tooling
+.codex/
